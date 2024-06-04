@@ -1,0 +1,43 @@
+Implement physics:
+    Velocity
+    Gravity
+    Etc.
+Implement mini games:
+    Fetch
+    Feeding
+    Petting
+    Catching mice
+    Etc.
+Implement a health system
+Implement a happiness system
+Add interactions with the other windows
+Add sounds:
+    Meowing
+    Purring
+    Etc.
+Animate the taskbar icon
+Add validation and error handling:
+    `Glue()` availability
+    `Glue()` promise rejection
+    API calls promise rejections
+    Character search parameter
+    Etc.
+Remove the current display limitation
+Fix an issue where the group headers aren't considered
+Fix an issue with the interaction with windows part of a group
+Leverage the `flash()` method (https://docs.interop.io/reference/glue/latest/windows/index.html#GDWindow-flash)
+Leverage the Hotkeys API (https://docs.interop.io/desktop/capabilities/more/apis/index.html#hotkeys)
+Leverage all sprites:
+    Idle
+    Wall slide
+    Etc.
+Add the bunny characters:
+    Add RUN-RIGHT sprites
+    Update CHARACTER_TO_ICON_AND_SPRITE_ACTIONS
+    Etc.
+Add additional characters
+Migrate to the io.Connect Desktop SDK
+Switch to TypeScript
+Refactor the code:
+    Add comments
+Get the io.Connect Desktop SDK from a CDN
