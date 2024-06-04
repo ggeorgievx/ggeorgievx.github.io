@@ -177,7 +177,6 @@ const loadImage = async (url) => {
     };
     document.onmousemove = (event) => {
         if (currentState === 'DRAG') {
-            console.log('debug ~ event.screenY:', event.screenY);
             const top = event.screenY - CHARACTER_SPRITE_PADDING.TOP <= 0 ?
                 -CHARACTER_SPRITE_PADDING.TOP :
                 event.screenY - CHARACTER_SPRITE_PADDING.TOP >= myDisplay.workArea.height - CANVAS_HEIGHT + CHARACTER_SPRITE_PADDING.BOTTOM ?
