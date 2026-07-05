@@ -35,7 +35,8 @@ Add the bunny characters:
     Add RUN-RIGHT sprites
     Update CHARACTER_TO_ICON_AND_SPRITE_ACTIONS
     Etc.
-Add additional characters
+Add additional characters:
+    https://developer.mozilla.org/en-US/docs/Web/CSS/filter
 Migrate to the io.Connect Desktop SDK
 Switch to TypeScript
 Refactor the code:
